@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/onOff"
+        android:title="On/Off Wifi"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/choose_File"
+        android:title="Choose File"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/myIp"
+        android:title="See Your IP"
+        app:showAsAction="never" />
+    <item android:id="@+id/saveMsg"
+        android:title="Save Messages"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/resetbg"
+        android:title="Reset Background"
+        app:showAsAction="never"
+        />
+    <item android:id="@+id/mainPage"
+        android:title="Exit"
+        app:showAsAction="never"
+        />
+
+</menu>
